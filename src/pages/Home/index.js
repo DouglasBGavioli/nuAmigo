@@ -23,7 +23,7 @@ const list = [
   {
     id: 3,
     label: 'Salario',
-    value: '3900,00',
+    value: '3950,00',
     date: '27/09/2024',
     type: 1
   },
