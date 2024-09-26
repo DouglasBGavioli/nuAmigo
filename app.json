@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "myapp",
-    "slug": "myapp",
+    "name": "nuAmigo",
+    "slug": "nuAmigo",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
